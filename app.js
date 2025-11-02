@@ -10,6 +10,7 @@ const animals = {
   bear: "growl",
   frog: "croak",
   lion: "roar"
+  horse:"stamping"
 };
 
 function getAnimal() {
